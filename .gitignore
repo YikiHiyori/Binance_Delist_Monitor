@@ -1,0 +1,35 @@
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+
+# Virtual environments
+.venv/
+.venv39/
+venv/
+env/
+
+# Python cache and tooling
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+
+# Runtime output
+logs/
+state/
+*.sqlite3
+*.db
+*.log
+*.pid
+
+# Editor and OS files
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini

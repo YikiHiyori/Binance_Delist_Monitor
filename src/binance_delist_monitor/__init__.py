@@ -1,0 +1,1 @@
+"""Binance perpetual delist monitor."""
